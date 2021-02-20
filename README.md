@@ -9,14 +9,9 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: 
 
-#### 📊 Weekly development breakdown
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
----
-
-
-
