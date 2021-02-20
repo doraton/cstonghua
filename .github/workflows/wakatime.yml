@@ -1,12 +1,12 @@
 name: WakaTime Readme
-
+# 触发条件
 on:
   push:
     branches:
       - master
   schedule:
     - cron: '0 19 * * *'
-
+# 任务
 jobs:
   update-readme:
     runs-on: ubuntu-latest
