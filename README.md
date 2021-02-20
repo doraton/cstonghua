@@ -7,12 +7,9 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: 📽Movie
-
----
+- ⚡ Fun fact: 
 
 #### 📊 Weekly development breakdown
-
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
